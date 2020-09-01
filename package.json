@@ -1,0 +1,17 @@
+{
+  "name": "remark-mdx-toc",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.2.2"
+  },
+  "dependencies": {
+    "remark": "^12.0.1",
+    "remark-frontmatter": "^2.0.0",
+    "remark-mdx": "^1.6.16",
+    "unist-util-visit": "^2.0.3"
+  }
+}

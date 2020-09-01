@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`extracts toc from mdx 1`] = `
+Array [
+  Object {
+    "depth": 1,
+    "value": "Section heading 1",
+  },
+  Object {
+    "depth": 2,
+    "value": "Section heading 2",
+  },
+  Object {
+    "depth": 2,
+    "value": "Another heading 2",
+  },
+  Object {
+    "depth": 3,
+    "value": "Section Heading 3",
+  },
+]
+`;
